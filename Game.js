@@ -1,3 +1,22 @@
-/**
- * Created by Štefan on 25.08.2016.
- */
+class Game extends GameCore
+{
+    constructor(canvas, fps)
+    {
+        super(canvas, fps);
+    }
+
+    LoadContent()
+    {
+        //this.scenes.push();
+    }
+
+    Update()
+    {
+
+    }
+
+    Draw()
+    {
+
+    }
+}
